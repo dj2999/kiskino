@@ -1,4 +1,4 @@
-<h1 align="center">Kiskono/h1>
+<h1 align="center">Kiskono</h1>
 <h3 align="center">The Free Software Media System</h3>
 
 ---
